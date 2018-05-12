@@ -1,0 +1,35 @@
+_repo: '---_23962'
+_version: 0.1.0
+alternative_title:
+- Journey to the West
+- 西游记
+- Xi you ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Cheng'en
+    alias: 吴承恩
+    birthdate: 1500
+    deathdate: 1582
+    gutenberg_agent_id: '26148'
+    url: http://www.gutenberg.org/2009/agents/26148
+    wikipedia: http://en.wikipedia.org/wiki/Wu_Cheng'en
+description: ''
+gutenberg_issued: '2007-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23962'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xuanzang, approximately 596-664 -- Fiction'
+- !lcsh 'Folklore -- China'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcsh 'Legends -- China'
+- !lcc 'PL'
+title: 西遊記
+url: http://www.gutenberg.org/ebooks/23962
